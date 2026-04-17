@@ -19,5 +19,6 @@ Each report contains:
 - ranked U.S. top 10 watchlist with 5 mainstream names and 5 hidden-gem or surprise-rebound candidates
 - ranked Korea top 10 watchlist with 5 mainstream names and 5 hidden-gem or surprise-rebound candidates
 - news-based rationale for each idea
+- previous-day price and a tactical buy-zone range for each idea
 - risk checks
 - source links
